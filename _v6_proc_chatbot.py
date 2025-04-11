@@ -117,9 +117,9 @@ qRdy__d_sendkey  = qRiKi.getValue('qRdy__d_sendkey'  )
 
 
 # チャットボット api
-import      speech_bot_openai
-openaiAPI = speech_bot_openai.ChatBotAPI()
-import      speech_bot_openai_key as openai_key
+import      speech_old_openai
+openaiAPI = speech_old_openai.ChatBotAPI()
+import      speech_old_openai_key as openai_key
 
 
 
