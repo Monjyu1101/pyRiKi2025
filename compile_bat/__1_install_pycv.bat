@@ -16,22 +16,6 @@ PAUSE
 
 ECHO;
 ECHO ----------
-ECHO 2024/12/21
-ECHO ----------
-ECHO Python==3.13.1
-ECHO setuptools==75.6.0
-ECHO pyinstaller==6.11.1
-ECHO psutil==6.1.1
-ECHO websocket-client==1.8.0
-ECHO numpy==2.2.0
-ECHO opencv-python==4.10.0.84
-ECHO opencv-contrib-python==4.10.0.84
-rem  pysimplegui==5.0.7
-ECHO matplotlib==3.10.0
-ECHO pandas==2.2.3
-
-ECHO;
-ECHO ----------
 ECHO 2025/02/16
 ECHO ----------
 ECHO Python==3.13.2
@@ -45,6 +29,22 @@ ECHO opencv-contrib-python==4.10.0.84
 rem  pysimplegui==5.0.8
 ECHO matplotlib==3.10.0
 ECHO pandas==2.2.3
+
+ECHO;
+ECHO ----------
+ECHO 2025/07/19
+ECHO ----------
+ECHO Python==3.13.5
+ECHO setuptools==80.9.0
+ECHO pyinstaller==6.14.2
+ECHO psutil==7.0.0
+ECHO websocket-client==1.8.0
+ECHO numpy==2.3.1
+ECHO opencv-python==4.10.0.84
+ECHO opencv-contrib-python==4.10.0.84
+rem  pysimplegui==5.0.8
+ECHO matplotlib==3.10.3
+ECHO pandas==2.3.1
 
 ECHO;
 ECHO -----
